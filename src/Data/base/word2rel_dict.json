@@ -1,0 +1,1516 @@
+{
+    "to": [
+        "next to",
+        "growing next to",
+        "walking to",
+        "to the left of",
+        "connected to",
+        "sitting next to",
+        "tied to",
+        "close to",
+        "chained to",
+        "parked next to",
+        "trying to catch",
+        "walking next to",
+        "attached to",
+        "mounted to",
+        "to the right of",
+        "talking to",
+        "lying next to",
+        "about to hit",
+        "standing next to"
+    ],
+    "the": [
+        "in the top",
+        "to the left of",
+        "on the other side of",
+        "in the bottom of",
+        "on the bottom of",
+        "on the front of",
+        "on the back of",
+        "to the right of",
+        "on the left side",
+        "on the side of",
+        "on the edge of"
+    ],
+    "left": [
+        "on the left side",
+        "to the left of"
+    ],
+    "of": [
+        "coming out of",
+        "parked in front of",
+        "on the bottom of",
+        "made of",
+        "in front of",
+        "on the other side of",
+        "sitting in front of",
+        "in the bottom of",
+        "on top of",
+        "full of",
+        "on the front of",
+        "sitting on top of",
+        "on the back of",
+        "standing on top of",
+        "on the side of",
+        "of",
+        "to the left of",
+        "on the edge of",
+        "lying on top of",
+        "hanging out of",
+        "to the right of",
+        "standing in front of"
+    ],
+    "right": [
+        "to the right of"
+    ],
+    "on": [
+        "perched on",
+        "leaning on",
+        "drawn on",
+        "working on",
+        "on the bottom of",
+        "lying on",
+        "sewn on",
+        "on",
+        "stuck on",
+        "driving on",
+        "stacked on",
+        "on the other side of",
+        "sprinkled on",
+        "on top of",
+        "jumping on",
+        "on the front of",
+        "sitting on top of",
+        "on the back of",
+        "playing on",
+        "on the side of",
+        "standing on top of",
+        "hanging on",
+        "reflected on",
+        "parked on",
+        "painted on",
+        "served on",
+        "traveling on",
+        "riding on",
+        "worn on",
+        "floating on",
+        "scattered on",
+        "running on",
+        "printed on",
+        "hung on",
+        "getting on",
+        "lying on top of",
+        "grazing on",
+        "on the edge of",
+        "typing on",
+        "sitting on",
+        "growing on",
+        "talking on",
+        "displayed on",
+        "piled on",
+        "resting on",
+        "mounted on",
+        "sit on",
+        "walking on",
+        "standing on",
+        "sleeping on",
+        "skating on",
+        "on the left side",
+        "skiing on",
+        "balancing on"
+    ],
+    "inside": [
+        "lying inside",
+        "sitting inside",
+        "inside"
+    ],
+    "next": [
+        "next to",
+        "growing next to",
+        "sitting next to",
+        "parked next to",
+        "walking next to",
+        "lying next to",
+        "standing next to"
+    ],
+    "near": [
+        "walking near",
+        "growing near",
+        "sitting near",
+        "near",
+        "parked near",
+        "standing near"
+    ],
+    "in": [
+        "kept in",
+        "parked in front of",
+        "parked in",
+        "floating in",
+        "stuck in",
+        "cover in",
+        "wading in",
+        "in front of",
+        "flying in",
+        "in the top",
+        "swimming in",
+        "sitting in front of",
+        "in the bottom of",
+        "lying in",
+        "covering in",
+        "covered in",
+        "displayed in",
+        "running in",
+        "working in",
+        "reflecting in",
+        "reflected in",
+        "cooked in",
+        "hanging in",
+        "sitting in",
+        "looking in",
+        "sleeping in",
+        "eating in",
+        "jumping in",
+        "grazing in",
+        "standing in",
+        "playing in",
+        "skiing in",
+        "riding in",
+        "growing in",
+        "in between",
+        "wrapped in",
+        "in",
+        "standing in front of",
+        "walking in",
+        "pee in"
+    ],
+    "with": [
+        "walking with",
+        "with",
+        "decorated with",
+        "topped with",
+        "posing with",
+        "covered with",
+        "mixed with",
+        "sitting with",
+        "filled with",
+        "playing with"
+    ],
+    "wearing": [
+        "wearing"
+    ],
+    "wear": [
+        "wearing"
+    ],
+    "riding": [
+        "riding",
+        "riding on",
+        "riding in"
+    ],
+    "rid": [
+        "riding",
+        "riding on",
+        "riding in"
+    ],
+    "sitting": [
+        "sitting behind",
+        "sitting beside",
+        "sitting on",
+        "sitting near",
+        "sitting in front of",
+        "sitting next to",
+        "sitting under",
+        "sitting in",
+        "sitting by",
+        "sitting around",
+        "sitting atop",
+        "sitting with",
+        "sitting on top of",
+        "sitting inside",
+        "sitting at"
+    ],
+    "sit": [
+        "sitting behind",
+        "sitting beside",
+        "sitting on",
+        "sitting near",
+        "sitting in front of",
+        "sitting next to",
+        "sitting under",
+        "sitting in",
+        "sit on",
+        "sitting by",
+        "sitting around",
+        "sitting atop",
+        "sitting with",
+        "sitting on top of",
+        "sitting inside",
+        "sitting at"
+    ],
+    "top": [
+        "in the top",
+        "on top of",
+        "sitting on top of",
+        "standing on top of",
+        "lying on top of"
+    ],
+    "hanging": [
+        "hanging above",
+        "hanging in",
+        "hanging out of",
+        "hanging from",
+        "hanging off",
+        "hanging on",
+        "hanging over"
+    ],
+    "hang": [
+        "hanging above",
+        "hanging in",
+        "hang from",
+        "hanging out of",
+        "hanging from",
+        "hanging off",
+        "hanging on",
+        "hanging over"
+    ],
+    "lying": [
+        "lying inside",
+        "lying in",
+        "lying on",
+        "lying next to",
+        "lying on top of"
+    ],
+    "lie": [
+        "lying inside",
+        "lying in",
+        "lying on",
+        "lying next to",
+        "lying on top of"
+    ],
+    "pulled": [
+        "pulled by"
+    ],
+    "by": [
+        "cover by",
+        "covered by",
+        "decorated by",
+        "growing by",
+        "surrounded by",
+        "pushed by",
+        "sitting by",
+        "hidden by",
+        "covering by",
+        "pulled by",
+        "followed by",
+        "standing by",
+        "walking by",
+        "by",
+        "parked by"
+    ],
+    "pulling": [
+        "pulling"
+    ],
+    "pull": [
+        "pulling"
+    ],
+    "above": [
+        "flying above",
+        "above",
+        "hanging above"
+    ],
+    "going": [
+        "going into",
+        "going down",
+        "going through"
+    ],
+    "go": [
+        "going into",
+        "going down",
+        "going through"
+    ],
+    "down": [
+        "walking down",
+        "traveling down",
+        "going down",
+        "driving down",
+        "looking down at",
+        "skiing down",
+        "coming down"
+    ],
+    "attached": [
+        "attached to"
+    ],
+    "leaving": [
+        "leaving"
+    ],
+    "leave": [
+        "leaving"
+    ],
+    "carrying": [
+        "carrying"
+    ],
+    "carry": [
+        "carrying"
+    ],
+    "at": [
+        "staring at",
+        "pointing at",
+        "standing at",
+        "playing at",
+        "looking at",
+        "eating at",
+        "looking down at",
+        "at",
+        "sitting at",
+        "smiling at",
+        "parked at"
+    ],
+    "front": [
+        "sitting in front of",
+        "parked in front of",
+        "on the front of",
+        "standing in front of",
+        "in front of"
+    ],
+    "behind": [
+        "growing behind",
+        "sitting behind",
+        "walking behind",
+        "parked behind",
+        "standing behind",
+        "behind"
+    ],
+    "typing": [
+        "typing on"
+    ],
+    "type": [
+        "typing on"
+    ],
+    "parked": [
+        "parked by",
+        "parked on",
+        "parked behind",
+        "parked in front of",
+        "parked in",
+        "parked next to",
+        "parked near",
+        "parked along",
+        "parked alongside",
+        "parked beside",
+        "parked at"
+    ],
+    "eating": [
+        "eating in",
+        "eating",
+        "eating from",
+        "eating at"
+    ],
+    "eat": [
+        "eating in",
+        "eating",
+        "eating from",
+        "eating at"
+    ],
+    "standing": [
+        "standing at",
+        "standing against",
+        "standing on top of",
+        "standing beside",
+        "standing under",
+        "standing near",
+        "standing on",
+        "standing behind",
+        "standing by",
+        "standing in",
+        "standing in front of",
+        "standing around",
+        "standing next to"
+    ],
+    "stand": [
+        "standing at",
+        "standing against",
+        "standing on top of",
+        "standing beside",
+        "standing under",
+        "standing near",
+        "standing on",
+        "standing behind",
+        "standing by",
+        "standing in",
+        "standing in front of",
+        "standing around",
+        "standing next to"
+    ],
+    "holding": [
+        "holding onto",
+        "holding"
+    ],
+    "hold": [
+        "holding onto",
+        "holding"
+    ],
+    "through": [
+        "walking through",
+        "running through",
+        "seen through",
+        "flying through",
+        "shining through",
+        "looking through",
+        "going through"
+    ],
+    "side": [
+        "on the left side",
+        "on the side of",
+        "side walk",
+        "on the other side of"
+    ],
+    "surrounded": [
+        "surrounded by"
+    ],
+    "flying": [
+        "flying in",
+        "flying above",
+        "flying",
+        "flying through",
+        "flying over"
+    ],
+    "fly": [
+        "flying in",
+        "flying above",
+        "flying",
+        "flying through",
+        "flying over"
+    ],
+    "walking": [
+        "walking through",
+        "walking down",
+        "walking near",
+        "walking behind",
+        "walking with",
+        "walking into",
+        "walking to",
+        "walking up",
+        "walking on",
+        "walking next to",
+        "walking past",
+        "walking towards",
+        "walking across",
+        "walking by",
+        "walking along",
+        "walking toward",
+        "walking in"
+    ],
+    "walk": [
+        "walking through",
+        "walking down",
+        "walking near",
+        "walking behind",
+        "walking with",
+        "walking into",
+        "walking to",
+        "walking up",
+        "walking on",
+        "walking next to",
+        "walking past",
+        "walking towards",
+        "side walk",
+        "walking across",
+        "walking by",
+        "walking along",
+        "walking toward",
+        "walking in"
+    ],
+    "across": [
+        "running across",
+        "walking across"
+    ],
+    "watching": [
+        "watching"
+    ],
+    "watch": [
+        "watching"
+    ],
+    "below": [
+        "below"
+    ],
+    "from": [
+        "drinking from",
+        "coming from",
+        "hang from",
+        "hanging from",
+        "eating from",
+        "growing from"
+    ],
+    "full": [
+        "full of"
+    ],
+    "beside": [
+        "sitting beside",
+        "beside",
+        "parked beside",
+        "standing beside"
+    ],
+    "covered": [
+        "covered in",
+        "covered by",
+        "covered with"
+    ],
+    "filled": [
+        "filled with"
+    ],
+    "under": [
+        "under",
+        "sitting under",
+        "standing under"
+    ],
+    "throwing": [
+        "throwing"
+    ],
+    "throw": [
+        "throwing"
+    ],
+    "touching": [
+        "touching"
+    ],
+    "touch": [
+        "touching"
+    ],
+    "onto": [
+        "holding onto"
+    ],
+    "cutting": [
+        "cutting"
+    ],
+    "cut": [
+        "cutting"
+    ],
+    "covering": [
+        "covering",
+        "covering in",
+        "covering by"
+    ],
+    "cover": [
+        "cover by",
+        "covering in",
+        "covering",
+        "covering by",
+        "cover in"
+    ],
+    "crossing": [
+        "crossing"
+    ],
+    "cross": [
+        "crossing"
+    ],
+    "growing": [
+        "growing next to",
+        "growing in",
+        "growing behind",
+        "growing on",
+        "growing near",
+        "growing by",
+        "growing from",
+        "growing along"
+    ],
+    "grow": [
+        "growing next to",
+        "growing in",
+        "growing behind",
+        "growing on",
+        "growing near",
+        "growing by",
+        "growing from",
+        "growing along"
+    ],
+    "along": [
+        "parked along",
+        "walking along",
+        "growing along"
+    ],
+    "using": [
+        "using"
+    ],
+    "use": [
+        "using"
+    ],
+    "over": [
+        "leaning over",
+        "draped over",
+        "jumping over",
+        "looking over",
+        "flying over",
+        "hanging over"
+    ],
+    "underneath": [
+        "underneath"
+    ],
+    "drinking": [
+        "drinking",
+        "drinking from"
+    ],
+    "drink": [
+        "drinking",
+        "drinking from"
+    ],
+    "surrounding": [
+        "surrounding"
+    ],
+    "surround": [
+        "surrounding"
+    ],
+    "working": [
+        "working in",
+        "working on"
+    ],
+    "work": [
+        "working in",
+        "working on"
+    ],
+    "wrapped": [
+        "wrapped around",
+        "wrapped in"
+    ],
+    "around": [
+        "wrapped around",
+        "sitting around",
+        "tied around",
+        "standing around",
+        "worn around",
+        "around"
+    ],
+    "bottom": [
+        "in the bottom of",
+        "on the bottom of"
+    ],
+    "printed": [
+        "printed on"
+    ],
+    "out": [
+        "looking out",
+        "coming out of",
+        "blowing out",
+        "hanging out of"
+    ],
+    "reading": [
+        "reading"
+    ],
+    "read": [
+        "reading"
+    ],
+    "looking": [
+        "looking into",
+        "looking toward",
+        "looking at",
+        "looking out",
+        "looking in",
+        "looking over",
+        "looking down at",
+        "looking through"
+    ],
+    "look": [
+        "looking into",
+        "looking toward",
+        "looking at",
+        "look like",
+        "looking out",
+        "looking in",
+        "looking over",
+        "looking down at",
+        "looking through"
+    ],
+    "reflected": [
+        "reflected in",
+        "reflected on"
+    ],
+    "grazing": [
+        "grazing on",
+        "grazing in"
+    ],
+    "graze": [
+        "grazing on",
+        "grazing in"
+    ],
+    "driving": [
+        "driving on",
+        "driving down",
+        "driving"
+    ],
+    "drive": [
+        "driving on",
+        "driving down",
+        "driving"
+    ],
+    "leaning": [
+        "leaning against",
+        "leaning over",
+        "leaning on"
+    ],
+    "lean": [
+        "leaning against",
+        "leaning over",
+        "leaning on"
+    ],
+    "against": [
+        "leaning against",
+        "standing against"
+    ],
+    "reaching": [
+        "reaching for"
+    ],
+    "reach": [
+        "reaching for"
+    ],
+    "for": [
+        "reaching for",
+        "waiting for"
+    ],
+    "enclosing": [
+        "enclosing"
+    ],
+    "enclose": [
+        "enclosing"
+    ],
+    "worn": [
+        "worn around",
+        "worn on"
+    ],
+    "running": [
+        "running through",
+        "running on",
+        "running in",
+        "running across"
+    ],
+    "run": [
+        "running through",
+        "running on",
+        "running in",
+        "running across"
+    ],
+    "back": [
+        "on the back of"
+    ],
+    "between": [
+        "between",
+        "in between"
+    ],
+    "floating": [
+        "floating on",
+        "floating in"
+    ],
+    "float": [
+        "floating on",
+        "floating in"
+    ],
+    "mounted": [
+        "mounted on",
+        "mounted to"
+    ],
+    "moving": [
+        "moving"
+    ],
+    "move": [
+        "moving"
+    ],
+    "dragging": [
+        "dragging"
+    ],
+    "drag": [
+        "dragging"
+    ],
+    "jumping": [
+        "jumping off",
+        "jumping in",
+        "jumping over",
+        "jumping on"
+    ],
+    "jump": [
+        "jumping off",
+        "jumping in",
+        "jumping over",
+        "jumping on"
+    ],
+    "swinging": [
+        "swinging"
+    ],
+    "swing": [
+        "swinging"
+    ],
+    "talking": [
+        "talking to",
+        "talking on"
+    ],
+    "talk": [
+        "talking to",
+        "talking on"
+    ],
+    "playing": [
+        "playing at",
+        "playing",
+        "playing on",
+        "playing in",
+        "playing with"
+    ],
+    "play": [
+        "playing at",
+        "playing",
+        "playing on",
+        "playing in",
+        "playing with"
+    ],
+    "entering": [
+        "entering"
+    ],
+    "enter": [
+        "entering"
+    ],
+    "perched": [
+        "perched on"
+    ],
+    "getting": [
+        "getting on"
+    ],
+    "get": [
+        "getting on"
+    ],
+    "close": [
+        "close to"
+    ],
+    "feeding": [
+        "feeding"
+    ],
+    "feed": [
+        "feeding"
+    ],
+    "catching": [
+        "catching"
+    ],
+    "catch": [
+        "trying to catch",
+        "catching"
+    ],
+    "tossing": [
+        "tossing"
+    ],
+    "toss": [
+        "tossing"
+    ],
+    "sniffing": [
+        "sniffing"
+    ],
+    "sniff": [
+        "sniffing"
+    ],
+    "kissing": [
+        "kissing"
+    ],
+    "kiss": [
+        "kissing"
+    ],
+    "contain": [
+        "contain"
+    ],
+    "facing": [
+        "facing"
+    ],
+    "face": [
+        "facing"
+    ],
+    "followed": [
+        "followed by"
+    ],
+    "following": [
+        "following"
+    ],
+    "follow": [
+        "following"
+    ],
+    "observing": [
+        "observing"
+    ],
+    "observe": [
+        "observing"
+    ],
+    "taller": [
+        "taller than"
+    ],
+    "than": [
+        "larger than",
+        "higher than",
+        "shorter than",
+        "longer than",
+        "taller than",
+        "smaller than",
+        "bigger than"
+    ],
+    "seen": [
+        "seen through"
+    ],
+    "splashing": [
+        "splashing"
+    ],
+    "splash": [
+        "splashing"
+    ],
+    "connected": [
+        "connected to"
+    ],
+    "staring": [
+        "staring at"
+    ],
+    "star": [
+        "staring at"
+    ],
+    "pushed": [
+        "pushed by"
+    ],
+    "pushing": [
+        "pushing"
+    ],
+    "push": [
+        "pushing"
+    ],
+    "slicing": [
+        "slicing"
+    ],
+    "slice": [
+        "slicing"
+    ],
+    "tying": [
+        "tying"
+    ],
+    "tie": [
+        "tying"
+    ],
+    "hung": [
+        "hung on"
+    ],
+    "plugged": [
+        "plugged into"
+    ],
+    "into": [
+        "walking into",
+        "looking into",
+        "going into",
+        "plugged into"
+    ],
+    "chewing": [
+        "chewing"
+    ],
+    "chew": [
+        "chewing"
+    ],
+    "coming": [
+        "coming out of",
+        "coming down",
+        "coming from"
+    ],
+    "come": [
+        "coming out of",
+        "coming down",
+        "coming from"
+    ],
+    "draped": [
+        "draped over"
+    ],
+    "helping": [
+        "helping"
+    ],
+    "help": [
+        "helping"
+    ],
+    "swimming": [
+        "swimming in"
+    ],
+    "swim": [
+        "swimming in"
+    ],
+    "sleeping": [
+        "sleeping in",
+        "sleeping on"
+    ],
+    "sleep": [
+        "sleeping in",
+        "sleeping on"
+    ],
+    "beneath": [
+        "beneath"
+    ],
+    "resting": [
+        "resting on"
+    ],
+    "rest": [
+        "resting on"
+    ],
+    "biting": [
+        "biting"
+    ],
+    "bite": [
+        "biting"
+    ],
+    "shining": [
+        "shining through"
+    ],
+    "shin": [
+        "shining through"
+    ],
+    "tied": [
+        "tied around",
+        "tied to"
+    ],
+    "waiting": [
+        "waiting for"
+    ],
+    "wait": [
+        "waiting for"
+    ],
+    "hitting": [
+        "hitting"
+    ],
+    "hit": [
+        "hitting",
+        "about to hit"
+    ],
+    "about": [
+        "about to hit"
+    ],
+    "skiing": [
+        "skiing down",
+        "skiing on",
+        "skiing in"
+    ],
+    "ski": [
+        "skiing down",
+        "skiing on",
+        "skiing in"
+    ],
+    "chained": [
+        "chained to"
+    ],
+    "cooked": [
+        "cooked in"
+    ],
+    "other": [
+        "on the other side of"
+    ],
+    "chasing": [
+        "chasing"
+    ],
+    "chase": [
+        "chasing"
+    ],
+    "posing": [
+        "posing with"
+    ],
+    "pose": [
+        "posing with"
+    ],
+    "petting": [
+        "petting"
+    ],
+    "pet": [
+        "petting"
+    ],
+    "mixed": [
+        "mixed with"
+    ],
+    "stacked": [
+        "stacked on"
+    ],
+    "off": [
+        "hanging off",
+        "jumping off",
+        "falling off"
+    ],
+    "smoking": [
+        "smoking"
+    ],
+    "smoke": [
+        "smoking"
+    ],
+    "falling": [
+        "falling off"
+    ],
+    "fall": [
+        "falling off"
+    ],
+    "cooking": [
+        "cooking"
+    ],
+    "cook": [
+        "cooking"
+    ],
+    "topped": [
+        "topped with"
+    ],
+    "decorated": [
+        "decorated with",
+        "decorated by"
+    ],
+    "edge": [
+        "on the edge of"
+    ],
+    "boarding": [
+        "boarding"
+    ],
+    "board": [
+        "boarding"
+    ],
+    "toward": [
+        "looking toward",
+        "walking toward"
+    ],
+    "alongside": [
+        "parked alongside"
+    ],
+    "serving": [
+        "serving"
+    ],
+    "serve": [
+        "serving"
+    ],
+    "painted": [
+        "painted on"
+    ],
+    "stuck": [
+        "stuck in",
+        "stuck on"
+    ],
+    "adjusting": [
+        "adjusting"
+    ],
+    "adjust": [
+        "adjusting"
+    ],
+    "washing": [
+        "washing"
+    ],
+    "wash": [
+        "washing"
+    ],
+    "past": [
+        "walking past"
+    ],
+    "cleaning": [
+        "cleaning"
+    ],
+    "clean": [
+        "cleaning"
+    ],
+    "drawn": [
+        "drawn on"
+    ],
+    "kicking": [
+        "kicking"
+    ],
+    "kick": [
+        "kicking"
+    ],
+    "served": [
+        "served on"
+    ],
+    "towards": [
+        "walking towards"
+    ],
+    "picking": [
+        "picking up"
+    ],
+    "pick": [
+        "picking up"
+    ],
+    "up": [
+        "walking up",
+        "picking up"
+    ],
+    "making": [
+        "making"
+    ],
+    "make": [
+        "making"
+    ],
+    "wading": [
+        "wading in"
+    ],
+    "wad": [
+        "wading in"
+    ],
+    "approaching": [
+        "approaching"
+    ],
+    "approach": [
+        "approaching"
+    ],
+    "licking": [
+        "licking"
+    ],
+    "lick": [
+        "licking"
+    ],
+    "selling": [
+        "selling"
+    ],
+    "sell": [
+        "selling"
+    ],
+    "grabbing": [
+        "grabbing"
+    ],
+    "grab": [
+        "grabbing"
+    ],
+    "smiling": [
+        "smiling at"
+    ],
+    "smile": [
+        "smiling at"
+    ],
+    "traveling": [
+        "traveling down",
+        "traveling on"
+    ],
+    "travel": [
+        "traveling down",
+        "traveling on"
+    ],
+    "climbing": [
+        "climbing"
+    ],
+    "climb": [
+        "climbing"
+    ],
+    "pointing": [
+        "pointing at"
+    ],
+    "point": [
+        "pointing at"
+    ],
+    "exiting": [
+        "exiting"
+    ],
+    "exit": [
+        "exiting"
+    ],
+    "trying": [
+        "trying to catch"
+    ],
+    "try": [
+        "trying to catch"
+    ],
+    "kept": [
+        "kept in"
+    ],
+    "buying": [
+        "buying"
+    ],
+    "buy": [
+        "buying"
+    ],
+    "decorating": [
+        "decorating"
+    ],
+    "decorate": [
+        "decorating"
+    ],
+    "atop": [
+        "sitting atop",
+        "sits atop"
+    ],
+    "balancing": [
+        "balancing on"
+    ],
+    "balance": [
+        "balancing on"
+    ],
+    "leading": [
+        "leading"
+    ],
+    "lead": [
+        "leading"
+    ],
+    "longer": [
+        "longer than"
+    ],
+    "preparing": [
+        "preparing"
+    ],
+    "prepare": [
+        "preparing"
+    ],
+    "scattered": [
+        "scattered on"
+    ],
+    "hidden": [
+        "hidden by"
+    ],
+    "herding": [
+        "herding"
+    ],
+    "herd": [
+        "herding"
+    ],
+    "skating": [
+        "skating on"
+    ],
+    "skate": [
+        "skating on"
+    ],
+    "photographing": [
+        "photographing"
+    ],
+    "photograph": [
+        "photographing"
+    ],
+    "reflecting": [
+        "reflecting in"
+    ],
+    "reflect": [
+        "reflecting in"
+    ],
+    "hugging": [
+        "hugging"
+    ],
+    "hug": [
+        "hugging"
+    ],
+    "sewn": [
+        "sewn on"
+    ],
+    "smelling": [
+        "smelling"
+    ],
+    "smell": [
+        "smelling"
+    ],
+    "displayed": [
+        "displayed in",
+        "displayed on"
+    ],
+    "sprinkled": [
+        "sprinkled on"
+    ],
+    "blowing": [
+        "blowing out"
+    ],
+    "blow": [
+        "blowing out"
+    ],
+    "opening": [
+        "opening"
+    ],
+    "open": [
+        "opening"
+    ],
+    "higher": [
+        "higher than"
+    ],
+    "pouring": [
+        "pouring"
+    ],
+    "pour": [
+        "pouring"
+    ],
+    "towing": [
+        "towing"
+    ],
+    "tow": [
+        "towing"
+    ],
+    "guiding": [
+        "guiding"
+    ],
+    "guide": [
+        "guiding"
+    ],
+    "piled": [
+        "piled on"
+    ],
+    "shorter": [
+        "shorter than"
+    ],
+    "brushing": [
+        "brushing"
+    ],
+    "brush": [
+        "brushing"
+    ],
+    "larger": [
+        "larger than"
+    ],
+    "smaller": [
+        "smaller than"
+    ],
+    "bigger": [
+        "bigger than"
+    ],
+    "parking": [
+        "parking lot"
+    ],
+    "park": [
+        "parking lot"
+    ],
+    "lot": [
+        "parking lot"
+    ],
+    "like": [
+        "look like"
+    ],
+    "street": [
+        "street light"
+    ],
+    "light": [
+        "traffic light",
+        "street light"
+    ],
+    "traffic": [
+        "traffic light"
+    ],
+    "trash": [
+        "trash can"
+    ],
+    "can": [
+        "trash can"
+    ],
+    "palm": [
+        "palm tree"
+    ],
+    "tree": [
+        "tree trunk",
+        "palm tree"
+    ],
+    "trunk": [
+        "tree trunk"
+    ],
+    "remote": [
+        "remote control"
+    ],
+    "control": [
+        "remote control"
+    ],
+    "fire": [
+        "fire hydrant"
+    ],
+    "hydrant": [
+        "fire hydrant"
+    ],
+    "computer": [
+        "computer mouse"
+    ],
+    "mouse": [
+        "computer mouse"
+    ],
+    "hot": [
+        "hot dog"
+    ],
+    "dog": [
+        "hot dog"
+    ],
+    "made": [
+        "made of"
+    ],
+    "sits": [
+        "sits atop"
+    ],
+    "how":["how many"],
+    "many":["how many"],
+    "pee":["pee in"]
+
+}
