@@ -9,6 +9,7 @@
 图匹配结果见 ![img.png](img.png)
 
 环境配置
-python:3.6.4
-pip install -r requirement.txt
-jdk:1.8.0
+### python:3.6.4
+### pip install -r requirement.txt
+### jdk:1.8.0
+### eclipse
