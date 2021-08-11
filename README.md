@@ -7,15 +7,15 @@ This repository contains two major parts:
 
 Part 1 >>> Word graph generation
 
-- 1-1) cd src/
-- 1-2) run Python parse.py
+- cd src/
+- run Python parse.py
 
 The generated word graphs will be saved in src/Data/word_graph.
 
 Part 2 >>> Graph Matching
 
-- 2-1) cd src/Query
-- 2-2) run executor.java
+- cd src/Query
+- run executor.java
 
 The matching results will be shown as:  
 
