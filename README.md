@@ -1,8 +1,8 @@
 # Visual Question Answering by Pattern Matching and Reasoning
 
 This repository contains two major parts:
-- 1) The word graph generation algorithm based on a given question;
-- 2) The graph matching algorithm based on a word graph and a scene graph.
+- The word graph generation algorithm based on a given question;  
+- The graph matching algorithm based on a word graph and a scene graph.
 
 
 Part 1 >>> Word graph generation
