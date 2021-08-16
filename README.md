@@ -1,7 +1,8 @@
 # Visual Question Answering by Pattern Matching and Reasoning
 
-This repository contains two major parts:
+This repository contains three major parts:
 - The word graph generation algorithm based on a given question;  
+- The question oriented visual processing;
 - The graph matching algorithm based on a word graph and a scene graph.
 
 
@@ -12,7 +13,12 @@ Part 1 >>> Word graph generation
 
 The generated word graphs will be saved in src/Data/word_graph.
 
-Part 2 >>> Graph Matching
+
+Part 2 >>> The question oriented visual processing
+- cd src/active_vqa
+- training model: run python train_model/train_vqa_layout.py --model_type rl_layout  --data_dir /home/active_vqa/data --image_feat_dir /home/active_vqa/data/vgg_pool5/train --out_dir /home/active_vqa/data/temp_out
+
+Part 3 >>> Graph Matching
 
 - cd src/Query
 - run executor.java
