@@ -1,0 +1,5 @@
+_Scene
+_Person1
+_Transform
+_Direction
+<eos>
